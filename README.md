@@ -22,5 +22,7 @@ Compile and run the FlappyBird class.
 Technologies Used:
 
 Java
+
 Swing
+
 Object-Oriented Programming
